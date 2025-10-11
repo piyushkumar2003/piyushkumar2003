@@ -40,8 +40,8 @@ Currently, I’m working as a **Full Stack Developer**, where I design and devel
 
 ## 🏆 GitHub Stats
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushkumar2003&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar2003&layout=compact&theme=tokyonight)
 
 ---
 
