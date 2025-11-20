@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Piyush Kumar!
 
 🎓 **Undergraduate from IIIT Delhi**  
-💻 **Full Stack Developer** | ☁️ **Cloud Enthusiast** | 🤖 **ML/DL Learner**
+ **Full Stack Developer** |  **GenAI Enthusiast** |  **ML/DL Learner**
 
 ---
 
