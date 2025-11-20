@@ -16,7 +16,7 @@ Currently, I’m working as a **Full Stack Developer**, where I design and devel
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, JavaScript  
-- **Frameworks:** Spring, Spring Boot  
+- **Frameworks:** Spring, Spring Boot, Angular  
 - **Architecture:** Microservices  
 - **Cloud:** AWS  
 - **Other Interests:** ML, DL
